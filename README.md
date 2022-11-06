@@ -4,9 +4,9 @@
 Tambien es una manera de mostrar lo que aprendi sobre la computacion, y de demostrar el fanatismo que tengo.
 
 ## Demo de la App:
-Aqui podras ver cada una de las paginas que componen la app
+Aqui podras ver nuestros productos a la venta!. Son Videojuegos, perifericos, y componentes
 ###
-![Demo de la App](https://github.com/Frankstein97/FranksteinCafe/blob/main/src/img/demoapp.gif)
+![](public/asd2.png)
         
 ## Fue construido con: 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -29,8 +29,8 @@ Y librerias externas como bootstrap, Aos y SweetAlert2 para darle mas estilo!.
 
 ## Demo de una compra:
 ###
-Aqui podras ver el recorrido de una compra desde la seleccion de productos hasta la obtencion de numero de seguimiento.  
-![Demo de Compra](public/asd.png)
+Aqui podras ver lo que se puede hacer en nuestro sitio!. Agregar al carrito el/los productos que quieras, no te podras exceder del stock que contiene cada uno, asi mismo finalizar la compra, y con un pequeño formulario te llegara tu orden de compra!
+![](public/asd.png)
 
 
 <!-- GETTING STARTED -->
