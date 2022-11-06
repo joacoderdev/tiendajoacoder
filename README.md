@@ -1,8 +1,7 @@
 # Gracias por visitar el codigo de mi proyecto :)
 
-### Esta app fue creada para entender y practicar con React y es lo basico de un Ecommerce ficticio. 
-Tambien es una manera de mostrar lo que se sobre cafeteria de especialidad,
-En el futuro quiero volver a verla y recordar que antes de ser desarrollador fui barista
+### Esta app fue creada para entender y practicar con React y es lo basico de un Ecommerce. 
+Tambien es una manera de mostrar lo que aprendi sobre la computacion, y de demostrar el fanatismo que tengo.
 
 ## Demo de la App:
 Aqui podras ver cada una de las paginas que componen la app
@@ -31,7 +30,7 @@ Y librerias externas como bootstrap, Aos y SweetAlert2 para darle mas estilo!.
 ## Demo de una compra:
 ###
 Aqui podras ver el recorrido de una compra desde la seleccion de productos hasta la obtencion de numero de seguimiento.  
-![Demo de Compra](https://github.com/Frankstein97/FranksteinCafe/blob/main/src/img/democompra.gif)
+![Demo de Compra](public/asd.png)
 
 
 <!-- GETTING STARTED -->
