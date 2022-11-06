@@ -1,6 +1,6 @@
 # Gracias por visitar el codigo de mi proyecto :)
 
-### Esta app fue creada para entender y practicar con React y es lo basico de un Ecommerce. 
+### Esta app fue creada para entender y practicar con React. 
 Tambien es una manera de mostrar lo que aprendi sobre la computacion, y de demostrar el fanatismo que tengo.
 
 ## Demo de la App:
@@ -50,7 +50,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/falchon100/EscondidoBeer-AngelSanluis.git
+   git clone https://github.com/joacoderdev/tiendajoacoder.git
    ```
 2. Install NPM packages
    ```sh
