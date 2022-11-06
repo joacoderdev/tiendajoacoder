@@ -69,7 +69,7 @@ const NavBar = () => {
               <input
                 className="form-control me-2"
                 type="search"
-                placeholder="Productos y Filtrados..."
+                placeholder="Busca algo aqui..."
                 aria-label="Search"
               />
               <NavLink to={"/products"}>

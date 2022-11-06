@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="footer_row row row_nav">
           <div className="col align-self-center">
           <NavLink to={"/products"}>
-            <p>Explora la página y realiza una compra!</p>
+            <p>Revisa la página y realiza una compra!</p>
             </NavLink>
             <h5 className="p-2">Productos por categorias</h5>            
           </div>
@@ -26,8 +26,8 @@ const Footer = () => {
             </NavLink>
           </div>
           <div className="redes col align-self-center">
-            <h5>Podes chusmear las redes</h5>
-            <p>Consultas al GITHUB del proyecto ;)</p>            
+            <h5>Podes revisar nuestras redes sociales donde te podras comunicar con nosotros</h5>
+            <p>Demas consultas o preguntas al privado</p>            
           </div>
         </div>
       </div>

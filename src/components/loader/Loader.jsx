@@ -1,6 +1,5 @@
 import './style.css'
- const Loader = () => {
-  
+ const Loader = () => { 
 
   return (
     <>    

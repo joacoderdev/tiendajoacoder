@@ -5,10 +5,9 @@ const ContactContainer = () => {
   return (
     <>
       <div className="contactcontainer">
-        <h1 className="elh1"> HABLA CON NOSOTRXS!</h1>
+        <h1 className="elh1"> HABLA CON NOSOTROS!</h1>
         <h4 className="elh4">
-          Aqui es donde transmitis tus dudas y haces las preguntas que necesiten
-          respuesta
+          Aqui es donde transmites tus dudas y haces las preguntas que necesites
         </h4>
         <Contact />
         <h4 className="elh4">
