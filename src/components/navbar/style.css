@@ -1,0 +1,29 @@
+.navbar {
+  background-color: #A1CAC8;
+}
+.title_app{
+margin-top: 0.5rem;
+}
+  
+  .nav-link {
+    text-decoration: none;
+    font-size: 20px;
+  }
+  .navbar_brand {
+    color:white;
+    font-size: 2rem
+  }
+ .navbar-nav {
+  padding-left: 
+  50px;
+ }
+
+a {
+  text-decoration: none;
+}
+
+@media (max-width: 600px) {
+.title_app{
+  margin-top: 1.2rem;
+  }
+}

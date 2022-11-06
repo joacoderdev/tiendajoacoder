@@ -1,0 +1,13 @@
+.item-list {
+    align-items: center;
+    text-align:center;
+    justify-content: center;
+    margin: 2px;
+    background-color: rgb(233, 233, 220);
+}
+
+@media (max-width: 600px){
+    .itemList {
+    margin-top: 2px;
+    }
+}
